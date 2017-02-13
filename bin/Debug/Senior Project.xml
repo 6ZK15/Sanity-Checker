@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SeniorProject
+</name>
+</assembly>
+<members>
+<member name="P:Senior_Project.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Senior_Project.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Senior_Project.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet._zsgr0042_9417450__ImportErrors1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet._zsgr0042_9417450_1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet._zsgr0042_9417450__ImportErrors1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet._zsgr0042_9417450_1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet._zsgr0042_9417450__ImportErrors1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet._zsgr0042_9417450_1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Senior_Project.Database1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSetTableAdapters.zsgr0042_9417450__ImportErrors1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSetTableAdapters.zsgr0042_9417450_1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Senior_Project.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Senior_Project.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Senior_Project.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.UpdateAll(Senior_Project.Database1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Senior_Project.Database1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
